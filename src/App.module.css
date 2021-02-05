@@ -1,0 +1,32 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.Topbar {
+    background-color: #282c34;  
+    text-align: center;
+    padding: 12px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.SectionHeading {
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+
+.Topbar > img {
+    width: 100px;
+}
+
+.MainContainer {
+    padding: 4% 12%;
+    margin-top: 32px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+}
+
